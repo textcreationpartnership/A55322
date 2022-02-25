@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The poll-bill, as to be given in charge</title>
+            <author>England and Wales. Court of Exchequer.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55322</idno>
+            <idno type="STC">Wing P2772</idno>
+            <idno type="STC">ESTC R23420</idno>
+            <idno type="EEBO-CITATION">12068627</idno>
+            <idno type="OCLC">ocm 12068627</idno>
+            <idno type="VID">53443</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55322)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53443)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 819:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The poll-bill, as to be given in charge</title>
+                  <author>England and Wales. Court of Exchequer.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill and Christopher Barker ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+                  <note>Publisher information taken from colophon.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poll tax --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:53443:1"/>
+            <!-- PDF PAGE 43 -->
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure> The Poll-Bill, <hi>As to be given in Charge.</hi>
+            </head>
+            <p>THe firſt Meeting of the Commiſſioners is to be on or before the Fourteenth day of <hi>February</hi> next; There they agree to divide themſelves into the ſeveral Diviſions of the County. And at the ſame firſt Meeting they are to ſend out their Warrants into all the parts of the County, ſummoning Inha<g ref="char:EOLhyphen"/>bitants, High-Conſtables, &amp;c. as they think fit, to appear be<g ref="char:EOLhyphen"/>fore the ſaid Commiſſioners in their ſeveral Diviſions, at ſuch time and place as by their Warrant they ſhall appoint, within eight days after their firſt Meeting.</p>
+            <p>At their ſecond Meeting they are to give in Charge the Act; which, for the better diſpatch, is in brief here ſet down.</p>
+            <p>WHereas by an Act of this preſent Parliament, entituled, <hi>An Act for raiſing Money by a Poll, and otherwiſe, to<g ref="char:EOLhyphen"/>wards the Maintenance of the preſent War;</hi> It is provided, That all and every perſon and perſons (Excepting only ſuch as receive alms from the Pariſh, and the children of any perſon remaining in his or her family, who by reaſon of their poverty doth not contribute to the Rates for Church and Poor, and who are under the age of ſixteen years) ſhall pay unto His Majeſty the ſum of Twelve pence; And that over and above the ſaid ſum of Twelve pence, all perſons and Bodies Politick
+<pb n="2" facs="tcp:53443:2"/>
+               <!-- PDF PAGE 44 -->and Corporate, having perſonal Eſtate in Debts or ready Moneys, which he or they do not account deſperate, over and beſides ſuch Debts as they ſhall <hi>bona fide</hi> owe, ſhall pay for every Hundred pounds thereof, the ſum of Twenty ſhillings; Except Moneys lent, or to be lent to His Majeſty upon Secu<g ref="char:EOLhyphen"/>rity of any Act paſſed, or to be paſſed by this preſent Parlia<g ref="char:EOLhyphen"/>ment. And that all perſons having any Office or publick Im<g ref="char:EOLhyphen"/>ployment, who are taxed to the Monethly Aſſeſsment in reſpect thereof, their Deputies, Clerks and Subſtitutes, ſhall pay unto His Majeſty the ſum of Twelve pence for every Twenty ſhillings, which ſhall be rated and paid in the place where the Office is exe<g ref="char:EOLhyphen"/>cuted: And for ſuch Offices and Imployments as are not ſo taxed to the Monethly Aſſeſsment, the ſum of Three ſhillings for every Twenty ſhillings accruing to them by ſuch Office in one year, allowing one third part of the profits thereof towards the charge of executing ſuch Office. And that all perſons having any yearly Penſion or Stipend from His Majeſty, under his Great or Privy Seal, ſhall pay unto His Majeſty for every Twenty ſhillings thereof received in one year, the ſum of Three ſhillings. And that all Serjeants at Law, Councellors, Attornies, Sollicitors, and Scriveners, and all Advocates, Proctors, and publick No<g ref="char:EOLhyphen"/>taries, and all perſons practiſing Phyſick, ſhall pay unto his Ma<g ref="char:EOLhyphen"/>jeſty for every Twenty ſhillings which they receive by their pra<g ref="char:EOLhyphen"/>ctice in one Year, the ſum of Two ſhillings, allowing one third part thereof towards their Charge. And that every Servant re<g ref="char:EOLhyphen"/>ceiving yearly Wages, ſhall pay out of every Twenty ſhillings therof, the ſum of Twelve pence (except for Board-wages.) All Aliens to pay double.</p>
+            <p>And that every perſon of the degree of a Duke of <hi>England, Scotland</hi> or <hi>Ireland,</hi> reſiding within this Kingdom, ſhall pay to his Majeſty the ſum of Fifty pounds: Of the degree of a Marqueſs of either of the ſaid Kingdoms, Forty pounds: Of the degree of an Earl of either of the ſaid Kingdoms, Thirty pounds: Of the degree of a Viſcount of either of the ſaid Kingdoms, Twenty five pounds: Of the degree of a Baron of either of the ſaid Kingdoms, Twenty pounds. Every eldeſt Son of a Duke of <hi>England, Scotland,</hi> or <hi>Ireland,</hi> reſiding within this Kingdom, and being of the age of one and twenty years, Thirty pounds: Every eldeſt Son of a Marqueſs of any of the ſaid three King<g ref="char:EOLhyphen"/>doms, Twenty five pounds: Of an Earl, Twenty pounds: Of a Viſcount, Seventeen pounds Ten ſhillings: Of a Baron, Fifreen pounds: And every perſon of the degree of a Baronet of any of the ſaid three Kingdoms, and reſiding within this Kingdom, the ſum of Fifteen pounds: Of the degree of a Knight of the Order of the <hi>Bath,</hi> Fifteen pounds: Of a Knight Bachelor,
+<pb n="3" facs="tcp:53443:2"/>
+               <!-- PDF PAGE 44 -->Ten pounds: Of a Serjeant at Law, Ten pounds: Of an Eſquire, Five pounds: Of the degree of a Gentleman, having an Eſtate of the value of Three hundred pounds or more, Twenty ſhillings, though a Minor. And every Widow reſpectively to pay one third part rated by this Act upon her Husbands degree, except the Widows of Eccleſiaſtical perſons. And that every perſon of the degree of a Dean, ſhall pay the ſum of Ten pounds: Of the degree of an Archdeacon, Forty ſhillings: Of the degree of a Canon or Prebend, his Prebend being not rated in the <hi>Ex<g ref="char:EOLhyphen"/>chequer</hi> at above Thirty pounds, the ſum of Fifty ſhillings: And every perſon of the degree of a Doctor in Divinity (having a Benefice) and Doctor of Law or Phyſick, the ſum of Five pounds.</p>
+            <p>Theſe are therefore to require and command You, on or be<g ref="char:EOLhyphen"/>fore the Firſt day of <hi>March</hi> next, to make and return unto Us in Writing, one perfect Certificate of the Names and Sirnames, Qualities, Dignities and Titles of all and every the Perſons dwelling or reſiding within your reſpective Pariſhes; taking care that no perſon chargeable as aforeſaid be omitted; and that every perſon be aſſeſſed for his Poll, Perſonal Eſtate in Debts or ready money, Office, Imployments, Wages, Penſion from the King, and Title; or as many of theſe as every ſingle per<g ref="char:EOLhyphen"/>ſon is ſubject unto; And to aſſeſs every of them accordingly,<note place="margin">The Eſti<g ref="char:EOLhyphen"/>mate what might be raiſed by this Bill, in the Houſe of Commons, was 500000 <hi>li.</hi> which is to be applied unto the War.</note> without Concealment, Love, Favour, Dread, or Malice, upon pain of forfeiture of Five pounds for every default: Together with the Names of two or more ſufficient perſons within your re<g ref="char:EOLhyphen"/>ſpective Pariſhes or Places, to be Collectors of the Money ſo aſ<g ref="char:EOLhyphen"/>ſeſſed by vertue of the ſaid Act; for whom the Pariſh is to be anſwerable. In the Execution whereof you are to be careful. And hereof fail not, at your peril.</p>
+            <p>Upon the Return of the Certificate and Aſſeſsments, then the Commiſſioners are to iſſue out their Warrants unto the Collectors to levy all the moneys charged on every perſon ſo aſſeſſed; and to require them to make Demand of the Parties themſelves at the places of their laſt abode, within ſix dayes after the receipt of the Eſtreat; and to levy and pay the ſame unto the High-Collector, on or before the Eighth day of <hi>April</hi> 1667. And if the Commiſſioners, or any three or more of them ſee cauſe, they ſhall and may examine the Preſenters thereof, and alter the Aſſeſsment, taking care that every per<g ref="char:EOLhyphen"/>ſon be aſſeſt for his beſt Title only, and for as many other Ca<g ref="char:EOLhyphen"/>pacities as he is chargeable withal. The ſaid Commiſſioners are impowered to authorize the High-Collector to diſtrain the
+<pb n="4" facs="tcp:53443:3"/>
+               <!-- PDF PAGE 45 -->Sub-Collector in caſe of failure on his part; And to require the High-Collector to pay in the full Sum to be by him paid unto the Receiver-general, before the Fifteenth Day of <hi>April</hi> next. And the Receiver-general to pay his whole Collection before the Thirtieth day of <hi>April</hi> next. And the Commiſſioners are further required, That a Duplicate of the whole Sum charged within every Hundred, Pariſh, or Place aſſeſſed, without na<g ref="char:EOLhyphen"/>ming the perſons, ſhall be returned into the <hi>Exchequer</hi> before the Twentieth day of <hi>April</hi> next; All Appeals being firſt deter<g ref="char:EOLhyphen"/>mined, wherein the Party by Oath may diſcharge himſelf: And a like Duplicate unto the Receiver-general and Head-Collect<g ref="char:EOLhyphen"/>ors, according unto their reſpective Collections; That all the money may be paid into the <hi>Exchequer</hi> by the time aforeſaid. But for ſuch perſons as ſhall prove Defaulters, they are perſo<g ref="char:EOLhyphen"/>nally to be returned into the <hi>Exchequer;</hi> there to be proceeded with, &amp;c.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>In the <hi>SAVOY,</hi> Printed by the Aſsigns of <hi>John Bill</hi> and <hi>Chriſtopher Barker,</hi> His Majeſties Printers. 1666.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
